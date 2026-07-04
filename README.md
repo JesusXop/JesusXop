@@ -1,4 +1,7 @@
-## Hi there 👋
+## Sistemas computacionales
+En este cuatrimestre estamos aprediendo a manejar en las base de datos, y de programacion estamos trabajando en netbeans con el leguaje java👋
+
+## Sobre mi 
 
 <!--
 **JesusXop/JesusXop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
